@@ -1,8 +1,6 @@
-package me.pineman;
+package me.pineman.arrays101.introduction;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class SquaresOfASortedArray {
 

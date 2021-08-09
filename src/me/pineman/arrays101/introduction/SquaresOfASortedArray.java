@@ -1,4 +1,4 @@
-package me.pineman.arrays101.Introduction;
+package me.pineman.arrays101.introduction;
 
 import java.util.Arrays;
 

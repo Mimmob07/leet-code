@@ -22,7 +22,7 @@ public class DuplicateZeros {
                     lastone = false;
                 }
                 else {
-                    for(int x=arr.length-1; x > i; x--){
+                    for(int x = arr.length - 1; x > i; x--){
                         arr[x] = arr[x-1];
                     }
                     arr[i] = 0;

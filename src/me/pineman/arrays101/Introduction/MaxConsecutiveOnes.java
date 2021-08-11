@@ -1,4 +1,4 @@
-package me.pineman.arrays101.introduction;
+package me.pineman.arrays101.Introduction;
 
 public class MaxConsecutiveOnes {
 

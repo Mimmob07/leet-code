@@ -7,7 +7,6 @@ public class RemoveElement {
     public static void main(String[] args) {
         int[] nums = {0,4,4,0,4,4,4,0,2}; // Input array
         int val = 4; // Value to remove
-//        int solution = removeElement(nums, val);
         int solution = removeElement(nums, val);
         System.out.println(solution);
     }
